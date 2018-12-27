@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: 자율주도학습 Week 1
 ---
 
 # Week 1
