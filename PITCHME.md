@@ -27,4 +27,4 @@
 성격 : 차분함
 연말계획 : 영화
 12월 31일에 하고 싶은 일 : 코딩
-사진
+![udong](https://user-images.githubusercontent.com/44201926/50469015-073fd100-09ee-11e9-8f8c-72e832691741.jpg)
