@@ -18,7 +18,8 @@
 성격 : 낯가림이 심함
 연말계획 : 여행
 12월 31일에 하고 싶은 일 : 집에 있기 
-사진
+![default](https://user-images.githubusercontent.com/44201926/50468971-d1025180-09ed-11e9-9b00-c0db42dd6141.jpg)
+
 ---
 # 슬라이드 2
 팀원 : 반태형
