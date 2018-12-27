@@ -1,5 +1,5 @@
 ---
-title: 자기 주도 학습
+title: Week 1
 ---
 
 # Week 1
